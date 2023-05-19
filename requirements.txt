@@ -1,8 +1,10 @@
 opencv-python-headless
 tensorflow-cpu
-gunicorn
+waitress
 mlflow
+flask
 numpy
+Pillow
 
 
 
