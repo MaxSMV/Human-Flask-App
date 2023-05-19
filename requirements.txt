@@ -1,6 +1,6 @@
 opencv-python-headless
 tensorflow-cpu
-waitress
+gunicorn
 mlflow
 flask
 numpy
